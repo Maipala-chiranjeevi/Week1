@@ -1,9 +1,12 @@
 # Week1
+
 README: CNN Image Classification with Data Visualization
+
 Overview
 This project uses Convolutional Neural Networks (CNN) for image classification. The code loads and processes images from the specified training and testing directories, creates a Pandas DataFrame, and visualizes the category distribution with a pie chart.
 
 Prerequisites
+
 Install the required libraries:
 
 bash
