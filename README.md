@@ -2,6 +2,9 @@
 
 README: CNN Image Classification with Data Visualization
 
+DATASET LINK = https://www.kaggle.com/datasets/techsash/waste-classification-data/data
+
+
 Overview
 This project uses Convolutional Neural Networks (CNN) for image classification. The code loads and processes images from the specified training and testing directories, creates a Pandas DataFrame, and visualizes the category distribution with a pie chart.
 
